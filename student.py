@@ -57,7 +57,7 @@ class Data:
             card_id = token_info["info"]["card_id"]
             id_card_md5 = token_info["info"]["id_card_md5"]
             token2 = token_info["info"]["token"]
-            self.login_url = "https://fxgl.jx.edu.cn/4136010406/third/alipayLogin?cardId=%s&sfzMd5=%s&token=%s" % (
+            self.login_url = "https://fxgl.jx.edu.cn/"+self.school+"/third/alipayLogin?cardId=%s&sfzMd5=%s&token=%s" % (
                 card_id, id_card_md5, token2)
         else:
             print("error 获取token2失败 登录url拼接失败")
