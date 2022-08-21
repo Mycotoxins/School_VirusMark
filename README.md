@@ -1,3 +1,4 @@
+# 2022/08/21 IOS QuanX打卡脚本 https://github.com/zouhy2001/QuantumultX_xyfy
 - [更新日志](#更新日志)
 - [使用方法](#使用方法)
   - [1.天才第一步](#1天才第一步)
