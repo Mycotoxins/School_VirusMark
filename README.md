@@ -1,4 +1,4 @@
-# 2022/08/21 IOS QuanX打卡脚本,理论上也适用于Suger Loon https://github.com/zouhy2001/QuantumultX_xyfy 
+# 2022/08/21 IOS QuanX打卡脚本,理论上也适用于Surge Loon https://github.com/zouhy2001/QuantumultX_xyfy 
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/57806936/188250273-4f02975f-9f9c-4d0f-b9d3-969400313489.png">
