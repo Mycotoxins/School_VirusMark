@@ -1,4 +1,12 @@
-# 2022/08/21 IOS QuanX打卡脚本 https://github.com/zouhy2001/QuantumultX_xyfy
+# 2022/08/21 IOS QuanX打卡脚本,理论上也适用于Suger Loon https://github.com/zouhy2001/QuantumultX_xyfy 
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/57806936/188250273-4f02975f-9f9c-4d0f-b9d3-969400313489.png">
+</div>
+
+> 打卡最根本的问题就是通过支付宝这个接口登录需要支付宝app内部提供的auth_code用以xyfy服务器认证,但每次获取到的auth_code的有效期只有24小时,打卡的痛点又在于认证服务器的不响应,所以就想着做中间人攻击,每次拿到auth_code让脚本自己去尝试打卡.避免一直卡空白页等待.
+
+
 - [更新日志](#更新日志)
 - [使用方法](#使用方法)
   - [1.天才第一步](#1天才第一步)
